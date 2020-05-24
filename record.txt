@@ -1,4 +1,5 @@
 this is for the record of master branch
 <<<<<<< HEAD
+<<<<<<< HEAD
 today is a good/bad day1
-test for conflict-3D merge.
+test for conflict-3D-DD merge.
