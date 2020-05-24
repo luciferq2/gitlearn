@@ -1,2 +1,3 @@
 this is for the record of master branch
 today is a good/bad day
+test for conflict-D merge.
